@@ -1,2 +1,5 @@
-# happy-guls-day
-Happy Guls Day! Birthday card for Gulsezim · 26.10.26
+# Happy Guls Day! ♡
+
+Поздравление для Гулсезим — 26.10.26.
+
+Статический сайт без сборки. Публикация через GitHub Pages: ветка main, папка / (root).
